@@ -15,6 +15,7 @@ class LimebudCommand(sublime_plugin.TextCommand):
 
     STYLE = """ <style>
                     #limebud_report {
+                        font-family: monospace;
                         margin-top: 1rem;
                         padding: 0.5rem;
                         width: 71rem;
