@@ -61,7 +61,7 @@ class LimebudCommand(sublime_plugin.TextCommand):
 
         # Iterate over all lines to calculate total
         for index, line in enumerate(lines):
-            cols = re.split(r'\s+', line)
+            cols = re.split(',', line)
             if(len(cols) >= 3):
                 try:
                     value = float(cols[2])
