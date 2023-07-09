@@ -1,6 +1,6 @@
 # LimeBud: Plaintext Budgeting in Sublime Text
 
-*LimeBud* is a Sublime Text 3 plugin to show reports of plaintext budget files.
+*LimeBud* is a Sublime Text 4 plugin to show reports of plaintext budget files.
 These files are based on the comma-separated values (CSV) format.
 They are a human readable log of all expenses filed under multiple categories.
 Based on these files, *LimeBud* creates a report of your expenses.
